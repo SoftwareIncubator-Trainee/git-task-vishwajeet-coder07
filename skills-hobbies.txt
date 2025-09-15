@@ -1,0 +1,10 @@
+Hobbies:
+-Listening Music
+-Playing Badmintion
+-Watching Si-Fi Movies
+
+Skills:
+-HTML
+-CSS
+-JAVASCRIPT
+-C Language
